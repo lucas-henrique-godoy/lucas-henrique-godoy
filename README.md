@@ -6,7 +6,8 @@ Iniciei minha jornada na programação em 2023, enquanto cursava Análise e Dese
 
 ## Meu Gráfico de Commits
 
-![Commits](https://img.shields.io/github/commit-activity/y/<lucas-henrique-godoy>/<lucas-henrique-godoy>)
+![Commits](https://img.shields.io/github/commit-activity/y/lucas-henrique-godoy/lucas-henrique-godoy)
+
 
 ### Tecnologias que Estudei
 
