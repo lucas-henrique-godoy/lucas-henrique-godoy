@@ -9,8 +9,6 @@ Iniciei minha jornada na programação em 2023, enquanto cursava Análise e Dese
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=dracula&layout=compact)
 
-<!-- Gráfico de Contribuições -->
-![Contribution Graph](https://github.com/lucas-henrique-godoy/github-profile-summary-cards-example/blob/master/profile-summary-card-output/dracula/0-profile-details.svg)
 
 
 
