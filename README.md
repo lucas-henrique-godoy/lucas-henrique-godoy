@@ -15,7 +15,7 @@ Iniciei minha jornada na programação em 2023, enquanto cursava Análise e Dese
 
 
 
-### Tecnologias que Estudei
+### Tecnologias que já Estudei
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
