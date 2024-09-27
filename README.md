@@ -7,6 +7,9 @@ Iniciei minha jornada na programação em 2023, enquanto cursava Análise e Dese
 ## Meu Gráfico de Commits
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=dracula&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/api/page?username=lucas-henrique-godoy)
+
 
 
 
