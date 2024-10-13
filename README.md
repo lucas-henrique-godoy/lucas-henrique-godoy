@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Iniciei minha jornada na programação em 2023, enquanto cursava Análise e Desenvolvimento de Sistemas. Desde o começo, tive contato com diversas linguagens, incluindo C, C# e Java, sempre motivado pela vontade de criar ferramentas que melhorem a vida das pessoas.
+Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Desenvolvimento de Sistemas. Desde o começo, tive contato com diversas linguagens, incluindo C, C# e Java, sempre motivado pela vontade de criar ferramentas que melhorem a vida das pessoas.
 
 ## Meu Gráfico de Commits
 
