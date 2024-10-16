@@ -9,12 +9,6 @@ Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Dese
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=radical&layout=compact)
 
-
-
-
-
-
-
 ### Tecnologias que já Estudei
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -29,8 +23,6 @@ Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Dese
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-
 
 ## Minha Trajetória
 
@@ -48,3 +40,4 @@ Estou animado para continuar essa jornada e contribuir para soluções que impac
 
 Obrigado por visitar meu perfil! 🚀
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
