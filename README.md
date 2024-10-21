@@ -33,17 +33,12 @@ Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Dese
 
 
 ## Minha Trajetória
-
 Inicialmente, meu foco estava no desenvolvimento front-end, onde estudei tecnologias como HTML5, CSS3 e JavaScript. No entanto, tudo mudou quando enfrentei o desafio de desenvolver um sistema para uma faculdade utilizando Windows Forms, C#, .NET e SQL Server. Essa experiência não só aprimorou minhas habilidades técnicas, mas também despertou uma verdadeira paixão pela lógica e pela criação de soluções funcionais.
 
 ## Foco Atual
-
-Atualmente, estou comprometido em aprofundar meus conhecimentos no ecossistema .NET e na linguagem C#, além de melhorar minhas habilidades em backend. Meu objetivo é evoluir constantemente como programador e me tornar um profissional de excelência na área.
+Atualmente, estou comprometido em aprofundar meus conhecimentos no ecossistema .NET e na linguagem C#, além de melhorar minhas habilidades em backend. Estou sempre disposto a aprender qualquer tecnologia que seja necessária, buscando evoluir constantemente como programador e me tornar um profissional de excelência na área.
 
 ## Vamos Conectar?
-
 Estou animado para continuar essa jornada e contribuir para soluções que impactem positivamente as pessoas. Se você compartilha dos mesmos interesses ou deseja trocar ideias, sinta-se à vontade para me contatar!
-
----
 
 Obrigado por visitar meu perfil! 🚀
