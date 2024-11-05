@@ -1,19 +1,13 @@
-# Olá, Mundo! 👋
+# Olá, sou Lucas Henrique 👨‍💻
 
 ## Sobre Mim
 
-Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Desenvolvimento de Sistemas. Desde o começo, tive contato com diversas linguagens, incluindo C, C# e Java, sempre motivado pela vontade de criar ferramentas que melhorem a vida das pessoas.
+Sou desenvolvedor apaixonado por **criar soluções** que melhoram a vida das pessoas. Iniciei minha jornada em 2022, durante o curso de **Análise e Desenvolvimento de Sistemas**, e desde então venho explorando tecnologias como **C**, **C#** e **Java**. Estou sempre em busca de novos desafios, com foco em construir sistemas eficientes e escaláveis.
 
 ## Meu Gráfico de Commits
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=dracula&layout=compact)
-
-
-
-
-
-
 
 ### Tecnologias que já Estudei
 
@@ -30,15 +24,21 @@ Iniciei minha jornada na programação em 2022, enquanto cursava Análise e Dese
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
-
 ## Minha Trajetória
-Inicialmente, meu foco estava no desenvolvimento front-end, onde estudei tecnologias como HTML5, CSS3 e JavaScript. No entanto, tudo mudou quando enfrentei o desafio de desenvolver um sistema para uma faculdade utilizando Windows Forms, C#, .NET e SQL Server. Essa experiência não só aprimorou minhas habilidades técnicas, mas também despertou uma verdadeira paixão pela lógica e pela criação de soluções funcionais.
+
+Comecei no desenvolvimento **front-end**, com foco em HTML5, CSS3 e JavaScript. Porém, foi ao desenvolver um sistema acadêmico com **Windows Forms**, **C#**, **.NET** e **SQL Server** que encontrei minha verdadeira paixão: criar soluções completas e escaláveis. Esse projeto foi um divisor de águas, aprimorando minhas habilidades técnicas e minha capacidade de resolver problemas reais com **tecnologia**.
 
 ## Foco Atual
-Atualmente, estou comprometido em aprofundar meus conhecimentos no ecossistema .NET e na linguagem C#, além de melhorar minhas habilidades em backend. Estou sempre disposto a aprender qualquer tecnologia que seja necessária, buscando evoluir constantemente como programador e me tornar um profissional de excelência na área.
+
+Atualmente, estou me aprofundando no **ecossistema .NET** e na linguagem **C#**, com ênfase em **desenvolvimento backend**. Estou explorando novas tecnologias, como **microservices** e **API RESTful**, e sempre em busca de aprimorar minhas habilidades em **arquitetura de software**.
 
 ## Vamos Conectar?
+
 Estou animado para continuar essa jornada e contribuir para soluções que impactem positivamente as pessoas. Se você compartilha dos mesmos interesses ou deseja trocar ideias, sinta-se à vontade para me contatar!
+
+## Contatos
+- 📧 **E-mail para contato**: [lucashenrique1507@outlook.com](mailto:lucashenrique1507@outlook.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/lucashenrique](https://linkedin.com/in/lucashenrique)
+- 🌐 **Portfólio**: [lucashenrique.dev](https://lucashenrique.dev)
 
 Obrigado por visitar meu perfil! 🚀
