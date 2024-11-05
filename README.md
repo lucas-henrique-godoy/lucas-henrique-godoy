@@ -39,6 +39,5 @@ Estou animado para continuar essa jornada e contribuir para soluções que impac
 ## Contatos
 - 📧 **E-mail para contato**: [lucashenrique1507@outlook.com](mailto:lucashenrique1507@outlook.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/lucashenrique](https://linkedin.com/in/lucashenrique)
-- 🌐 **Portfólio**: [lucashenrique.dev](https://lucashenrique.dev)
 
 Obrigado por visitar meu perfil! 🚀
