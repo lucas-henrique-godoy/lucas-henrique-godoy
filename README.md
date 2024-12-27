@@ -34,7 +34,7 @@ Atualmente, estou me aprofundando no **ecossistema .NET** e na linguagem **C#**,
 
 ## Vamos Conectar?
 
-Estou animado para continuar essa jornada e contribuir para soluções que impactem positivamente as pessoas. Se você compartilha dos mesmos interesses ou deseja trocar ideias, sinta-se à vontade para me contatar!!
+Estou animado para continuar essa jornada e contribuir para soluções que impactem positivamente as pessoas. Se você compartilha dos mesmos interesses ou deseja trocar ideias, sinta-se à vontade para me contatar!
 
 ## Contatos
 - 📧 **E-mail para contato**: [lucashenrique1507@outlook.com](mailto:lucashenrique1507@outlook.com)
