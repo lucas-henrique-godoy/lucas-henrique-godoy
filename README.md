@@ -7,7 +7,8 @@ Sou desenvolvedor apaixonado por **criar soluções** que melhoram a vida das pe
 ## Meu Gráfico de Commits
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&langs_count=6&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&langs_count=6&theme=radical&layout=default&count_private=true)
+
 
 
 ### Tecnologias que já Estudei
