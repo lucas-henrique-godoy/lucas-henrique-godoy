@@ -9,7 +9,7 @@ Sou desenvolvedor apaixonado por **criar soluções** que melhoram a vida das pe
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=radical&layout=compact)
 
-### Tecnologias que já Estudei
+### Tecnologias que já Estudei:
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
