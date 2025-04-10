@@ -11,7 +11,7 @@ Estou sempre em busca de novos desafios, com foco em construir sistemas eficient
 ![Stats](https://github-readme-stats.vercel.app/api?username=lucas-henrique-godoy&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-godoy&theme=radical&layout=compact)
 
-### Tecnologias que já Estudei
+### Tecnologias que já Estudei!
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)  
