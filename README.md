@@ -29,7 +29,7 @@ Estou sempre em busca de novos desafios, com foco em construir sistemas eficient
 
 Comecei no desenvolvimento **front-end**, com foco em HTML5, CSS3 e JavaScript. Porém, foi ao desenvolver um sistema acadêmico com **Windows Forms**, **C#**, **.NET** e **SQL Server** que encontrei minha verdadeira paixão: criar soluções completas e escaláveis. Esse projeto foi um divisor de águas, aprimorando minhas habilidades técnicas e minha capacidade de resolver problemas reais com **tecnologia**
 
-Atualmente, no meu trabalho como trainee, estou envolvido no desenvolvimento de **ERPs** com uma **stack fullstack**, utilizando principalmente **Angular** para o front-end e **C# / ASP.NET Core** para o back-end, com **SQL Server** no banco de dados. Este desafio tem me permitido aprender e aplicar conhecimentos de forma prática, enquanto continuo me aprofundando em **arquitetura de software** e **melhores práticas de desenvolvimento**
+Atualmente, no meu trabalho como trainee, estou envolvido no desenvolvimento de **ERPs** com uma **stack fullstack**, utilizando principalmente **Angular** para o front-end e **C# / ASP.NET Core** para o back-end, com **SQL Server** no banco de dados. Este desafio tem me permitido aprender e aplicar conhecimentos de forma prática, enquanto continuo me aprofundando em **arquitetura de software** e **melhores práticas de desenvolvimento** .
 
 ## Foco Atual
 
