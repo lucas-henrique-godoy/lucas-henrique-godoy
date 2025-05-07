@@ -44,4 +44,4 @@ Estou animado para continuar essa jornada e contribuir para soluções que impac
 - 📧 **E-mail para contato**: [lucashenrique1507@outlook.com](mailto:lucashenrique1507@outlook.com)  
 - 🔗 **LinkedIn**[linkedin.com/in/lucashenrique](https://linkedin.com/in/lucashenrique)
 
-Obrigado por visitar meu perfil ! 🚀
+Obrigado por visitar meu perfil! 🚀
