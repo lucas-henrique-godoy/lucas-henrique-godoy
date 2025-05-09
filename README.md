@@ -4,7 +4,7 @@
 
 Sou desenvolvedor apaixonado por **criar soluções** que melhoram a vida das pessoas. Iniciei minha jornada em 2022, durante o curso de **Análise e Desenvolvimento de Sistemas**, e desde então venho explorando tecnologias como **C#**, **Angular**, **ASP.NET Core** e **SQL Server**. Atualmente, estou trabalhando como **Trainee Fullstack** na criação de **ERPs** para diversas áreas de negócios, com foco em **front-end** e **back-end**, aprendendo constantemente sobre novas abordagens e tecnologias.
 
-Estou sempre em busca de novos desafios, com foco em construir sistemas eficientes, escaláveis e que atendam às necessidades específicas de cada cliente!
+Estou sempre em busca de novos desafios, com foco em construir sistemas eficientes, escaláveis e que atendam às necessidades específicas de cada cliente
 
 ## Meu Gráfico de Commits
 
