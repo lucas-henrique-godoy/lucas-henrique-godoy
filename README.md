@@ -1,4 +1,4 @@
-# Olá, sou Lucas Henrique Godoy👨‍💻
+# Olá, sou Lucas Henrique Godoy 👨‍💻
 
 ## Sobre Mim
 
