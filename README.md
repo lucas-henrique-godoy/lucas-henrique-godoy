@@ -2,7 +2,9 @@
 
 ## Sobre Mim
 
-Sou desenvolvedor apaixonado por **criar soluções** que melhoram a vida das pessoas. Iniciei minha jornada em 2022, durante o curso de **Análise e Desenvolvimento de Sistemas**, e desde então venho explorando tecnologias como **C#**, **Angular**, **ASP.NET Core** e **SQL Server**. Atualmente, estou trabalhando como **Trainee Fullstack** na criação de **ERPs** para diversas áreas de negócios, com foco em **front-end** e **back-end**, aprendendo constantemente sobre novas abordagens e tecnologias.
+Sou desenvolvedor apaixonado por criar soluções que melhoram a vida das pessoas. Iniciei minha jornada em 2022, durante o curso de Análise e Desenvolvimento de Sistemas, e desde então venho explorando tecnologias como C#, Angular, ASP.NET Core e SQL Server.
+
+Anteriormente, trabalhei como Trainee Fullstack na criação de ERPs para diversas áreas de negócios, com foco em front-end e back-end, aprendendo constantemente sobre novas abordagens e tecnologias.
 
 Estou sempre em busca de novos desafios, com foco em construir sistemas eficientes, escaláveis e que atendam às necessidades específicas de cada cliente.
 
@@ -27,9 +29,9 @@ Estou sempre em busca de novos desafios, com foco em construir sistemas eficient
 
 ## Minha Trajetória
 
-Comecei no desenvolvimento **front-end**, com foco em HTML5, CSS3 e JavaScript. Porém, foi ao desenvolver um sistema acadêmico com **Windows Forms**, **C#**, **.NET** e **SQL Server** que encontrei minha verdadeira paixão: criar soluções completas e escaláveis. Esse projeto foi um divisor de águas, aprimorando minhas habilidades técnicas e minha capacidade de resolver problemas reais com **tecnologia**
+Comecei no desenvolvimento front-end, com foco em HTML5, CSS3 e JavaScript. Porém, foi ao desenvolver um sistema acadêmico com Windows Forms, C#, .NET e SQL Server que encontrei minha verdadeira paixão: criar soluções completas e escaláveis. Esse projeto foi um divisor de águas, aprimorando minhas habilidades técnicas e minha capacidade de resolver problemas reais com tecnologia.
 
-Atualmente, no meu trabalho como trainee, estou envolvido no desenvolvimento de **ERPs** com uma **stack fullstack**, utilizando principalmente **Angular** para o front-end e **C# / ASP.NET Core** para o back-end, com **SQL Server** no banco de dados. Este desafio tem me permitido aprender e aplicar conhecimentos de forma prática, enquanto continuo me aprofundando em **arquitetura de software** e **melhores práticas de desenvolvimento**.
+No meu período como trainee, participei do desenvolvimento de ERPs com uma stack fullstack, atuando em pequenas funcionalidades no front-end com Angular e no back-end com C# e ASP.NET Core, além de suporte em banco de dados SQL Server. Essa experiência foi fundamental para meu aprendizado prático e crescimento técnico.
 
 ## Foco Atual
 
