@@ -1,6 +1,6 @@
 # Olá, sou Lucas Henrique Godoy👨‍💻
 
-## Sobre Mim:
+## Sobre Mim
 
 Sou desenvolvedor apaixonado por criar soluções que melhoram a vida das pessoas. Iniciei minha jornada em 2022, durante o curso de Análise e Desenvolvimento de Sistemas, e desde então venho explorando tecnologias como C#, Angular, ASP.NET Core e SQL Server.
 
