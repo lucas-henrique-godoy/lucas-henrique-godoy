@@ -36,7 +36,7 @@ Estou em constante desenvolvimento técnico, buscando aprimorar minhas habilidad
 
 Aqui você encontrará meus principais projetos práticos focados em análise de dados e BI:
 
-* 📊 **[Projeto de BI Ponta a Ponta: SQL Server + Power BI](https://github.com)** — Engenharia e modelagem de dados usando a base AdventureWorks da Microsoft integrando queries e views no SQL Server com dashboards dinâmicos no Power BI.
+* 📊 **[Projeto de BI Ponta a Ponta: SQL Server + Power BI](https://github.com)** — Modelagem de dados e dashboards usando a base AdventureWorks. da Microsoft integrando queries e views no SQL Server com dashboards dinâmicos no Power BI.
 
 *Novos projetos serão adicionados conforme minha evolução profissional e técnica.*
 
