@@ -22,35 +22,30 @@ Estou em constante desenvolvimento técnico, buscando aprimorar minhas habilidad
 
 ### 🎯 Áreas de Interesse
 
-- Análise e interpretação de dados;
-- Business Intelligence (BI);
-- Análise exploratória de dados (EDA);
-- Visualização e storytelling com dados;
-- Indicadores de desempenho (KPIs);
-- Inteligência de negócios;
-- Tomada de decisão orientada por dados.
+- Análise e interpretação de dados
+- Business Intelligence (BI)
+- Análise exploratória de dados (EDA)
+- Visualização e storytelling com dados
+- Indicadores de desempenho (KPIs)
+- Inteligência de negócios
+- Tomada de decisão orientada por dados
 
 ---
 
 ### 📂 Meus Projetos
 
-Aqui você encontrará projetos relacionados à análise de dados, incluindo:
+Aqui você encontrará meus principais projetos práticos focados em análise de dados e BI:
 
-- Análise exploratória de bases de dados;
-- Desenvolvimento de dashboards;
-- Consultas SQL;
-- Manipulação e tratamento de dados com Python;
-- Análise de indicadores e geração de insights.
+* 📊 **[Projeto de BI Ponta a Ponta: SQL Server + Power BI](https://github.com)** — Engenharia e modelagem de dados usando a base AdventureWorks da Microsoft integrando queries e views no SQL Server com dashboards dinâmicos no Power BI.
 
 *Novos projetos serão adicionados conforme minha evolução profissional e técnica.*
 
 ---
 
-### 📫 Contato
+### 📫 Vamos nos conectar?
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-henrique-godoy/
-- 📧 E-mail: lucashenrique1507@outlook.com
-- 💻 GitHub: https://github.com/lucas-henrique-godoy
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/lucas-henrique-godoy/)
+[![Email](https://shields.io)](mailto:lucashenrique1507@outlook.com)
 
 ---
 
