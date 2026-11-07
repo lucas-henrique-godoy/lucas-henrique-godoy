@@ -36,7 +36,7 @@ Estou em constante desenvolvimento técnico, buscando aprimorar minhas habilidad
 
 Aqui você encontrará meus principais projetos práticos focados em análise de dados e BI:
 
-* 📊 **[Projeto de BI Ponta a Ponta: SQL Server + Power BI](https://github.com/lucas-henrique-godoy/projeto-bi-adventureworks)** — Modelagem de dados e dashboards usando a base AdventureWorks da Microsoft, integrando queries e views no SQL Server com dashboards dinâmicos no Power BI.
+* 📊 **[Projeto de BI Ponta a Ponta: SQL Server + Power BI](https://github.com/lucas-henrique-godoy/projeto-bi-adventureworks)** — Engenharia e modelagem de dados usando a base AdventureWorks da Microsoft integrando queries e views no SQL Server com dashboards dinâmicos no Power BI.
 
 *Novos projetos serão adicionados conforme minha evolução profissional e técnica.*
 
@@ -44,13 +44,8 @@ Aqui você encontrará meus principais projetos práticos focados em análise de
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
-</a>
-
-<a href="mailto:lucashenrique1507@outlook.com">
-  <img src="https://shields.io" alt="Email">
-</a>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/lucas-henrique-godoy/)
+[![Email](https://shields.io)](mailto:lucashenrique1507@outlook.com)
 
 ---
 
