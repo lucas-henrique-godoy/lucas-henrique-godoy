@@ -51,8 +51,14 @@ Agora sim o link vai direto para o seu portfólio! Se você testar clicar nele a
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/lucas-henrique-godoy/)
-[![Email](https://shields.io)](mailto:lucashenrique1507@outlook.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn">
+</a>
+
+<a href="mailto:lucashenrique1507@outlook.com">
+  <img src="https://shields.io" alt="Email">
+</a>
+
 
 ---
 
