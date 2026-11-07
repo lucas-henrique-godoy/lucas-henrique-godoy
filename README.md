@@ -41,6 +41,13 @@ Aqui você encontrará meus principais projetos práticos focados em análise de
 *Novos projetos serão adicionados conforme minha evolução profissional e técnica.*
 
 ---
+Use o código com cuidado.
+Agora sim o link vai direto para o seu portfólio! Se você testar clicar nele após salvar, verá que abrirá sua página certinho. Tudo pronto por aí para fazer a sua publicação com o vídeo no LinkedIn?
+
+
+*Novos projetos serão adicionados conforme minha evolução profissional e técnica.*
+
+---
 
 ### 📫 Vamos nos conectar?
 
